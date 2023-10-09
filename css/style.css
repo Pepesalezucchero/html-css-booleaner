@@ -1,0 +1,39 @@
+/* header*/
+
+/*logo superiore*/
+#logo{
+    width: 200px;
+}
+
+#container{
+    background-image: url(../img/pattern.png);
+    background-size: 350px;
+    background-color: blue;
+    padding-top: 30px;
+}
+
+/*font di header e foto*/
+#titolo{
+    font-size: 60px;    
+}
+
+#primo-font-grigio{
+    color: grey;
+}
+
+#secondo-font-grigio{
+    color: grey;
+    font-size: 12px;
+}
+
+#font-celeste{
+    color: rgb(57, 162, 227);
+}
+
+.foto-Tim{
+    padding-top: 15px;
+}
+
+.descrizione-foto{
+    font-size: 10px;
+}
