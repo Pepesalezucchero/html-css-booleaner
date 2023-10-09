@@ -1,5 +1,10 @@
 /* header*/
 
+.container-bonus{
+    width: 1200px;
+    margin: auto;
+}
+
 /*logo superiore*/
 #logo{
     width: 200px;
@@ -9,12 +14,12 @@
     background-image: url(../img/pattern.png);
     background-size: 350px;
     background-color: blue;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 /*font di header e foto*/
 #titolo{
-    font-size: 60px;    
+    font-size: 60px;   
 }
 
 #primo-font-grigio{
@@ -30,7 +35,16 @@
     color: rgb(57, 162, 227);
 }
 
-.foto-Tim{
+#foto-Tim1{
+    display: block;
+    width: 700px;
+    padding-top: 15px;
+}
+
+#foto-Tim2{
+    display: block;
+    margin-top: -10px;
+    width: 600px;
     padding-top: 15px;
 }
 
