@@ -65,10 +65,12 @@ th{
     background-color: rgb(94, 192, 224)
 }
 
+/*terza sezione*/
 #margine-sotto{
     margin-bottom: 30px;
 }
 
+/*footer*/
 #container2{
     margin-top: 10px;
     background-image: url(../img/monitor.jpg);
