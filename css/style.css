@@ -45,6 +45,7 @@
 
 /*tabella*/
 table{
+    margin-top: 30px;
     border-collapse: collapse
 }
 
@@ -61,5 +62,29 @@ th{
 }
 
 .colore-interno{
-    background-color: rgb(94, 192, 224);
+    background-color: rgb(94, 192, 224)
+}
+
+#margine-sotto{
+    margin-bottom: 30px;
+}
+
+#container2{
+    margin-top: 10px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+
+.scritta-foto{
+    padding-bottom: 200px;
+    color: white;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+#container3{
+    margin-top: -30px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
 }
