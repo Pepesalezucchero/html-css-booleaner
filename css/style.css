@@ -49,6 +49,10 @@
     background-color: yellow;
 }
 
+ul{
+    padding-left: 10px;
+}
+
 /*tabella*/
 table{
     margin-top: 30px;
