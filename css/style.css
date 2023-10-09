@@ -37,3 +37,29 @@
 .descrizione-foto{
     font-size: 10px;
 }
+
+/*main, section, colore sottolineature*/
+.sottolineatura{
+    background-color: yellow;
+}
+
+/*tabella*/
+table{
+    border-collapse: collapse
+}
+
+th{
+    color: white;
+    background-color: blue;
+    text-align: left;
+    
+}
+
+.spostato{
+    padding-right: 20px;
+    width: 400px;
+}
+
+.colore-interno{
+    background-color: rgb(94, 192, 224);
+}
