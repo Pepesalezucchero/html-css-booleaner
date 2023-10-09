@@ -30,8 +30,14 @@
     color: rgb(57, 162, 227);
 }
 
-.foto-Tim{
+#foto-Tim1{
     padding-top: 15px;
+    width: 700px;
+}
+
+#foto-Tim2{
+    padding-top: 15px;
+    width: 600px;
 }
 
 .descrizione-foto{
