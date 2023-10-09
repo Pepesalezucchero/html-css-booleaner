@@ -1,0 +1,92 @@
+/* header*/
+
+/*logo superiore*/
+#logo{
+    width: 200px;
+}
+
+#container{
+    background-image: url(../img/pattern.png);
+    background-size: 350px;
+    background-color: blue;
+    padding-top: 30px;
+}
+
+/*font di header e foto*/
+#titolo{
+    font-size: 60px;    
+}
+
+#primo-font-grigio{
+    color: grey;
+}
+
+#secondo-font-grigio{
+    color: grey;
+    font-size: 12px;
+}
+
+#font-celeste{
+    color: rgb(57, 162, 227);
+}
+
+.foto-Tim{
+    padding-top: 15px;
+}
+
+.descrizione-foto{
+    font-size: 10px;
+}
+
+/*main, section, colore sottolineature*/
+.sottolineatura{
+    background-color: yellow;
+}
+
+/*tabella*/
+table{
+    margin-top: 30px;
+    border-collapse: collapse
+}
+
+th{
+    color: white;
+    background-color: blue;
+    text-align: left;
+    
+}
+
+.spostato{
+    padding-right: 20px;
+    width: 400px;
+}
+
+.colore-interno{
+    background-color: rgb(94, 192, 224)
+}
+
+/*terza sezione*/
+#margine-sotto{
+    margin-bottom: 30px;
+}
+
+/*footer*/
+#container2{
+    margin-top: 10px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+
+.scritta-foto{
+    padding-bottom: 200px;
+    color: white;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+#container3{
+    margin-top: -30px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+}
